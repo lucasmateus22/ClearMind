@@ -2285,28 +2285,28 @@ hr {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .footer-padding {
-        padding-top: 440px;
+        padding-top: 150px;
         padding-bottom: 70px
     }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .footer-padding {
-        padding-top: 440px;
+        padding-top: 150px;
         padding-bottom: 0px
     }
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
     .footer-padding {
-        ppadding-top: 375px;
+        ppadding-top: 155px;
         padding-bottom: 0px
     }
 }
 
 @media (max-width: 575px) {
     .footer-padding {
-        padding-top: 375px;
+        padding-top: 155px;
         padding-bottom: 0px
     }
 }
@@ -3911,7 +3911,9 @@ hr {
     background: #fff;
     color: rgba(35, 72, 33, 0.5);
     text-align: center;
-    font-size: 14px
+    font-size: 14px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    border-radius: 10px; 
 }
 
 .footer-area .footer-form form .form-icon button {
