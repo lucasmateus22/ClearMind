@@ -1,11 +1,7 @@
-.center {
-    text-align: center !important;
-}
 .footer-color {
     background-color: #ebf8e9 !important;
-}
 
-.input-subscriber {
-    box-shadow: inset 0 4px 12px rgba(0, 0, 0, 0.692) !important;
-  }
-  
+    & .input-subscriber {
+        box-shadow: inset 0 4px 12px rgba(189, 189, 189, 0.692) !important;
+    }
+}
