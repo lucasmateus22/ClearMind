@@ -32,7 +32,6 @@ Oferecer uma experiência digital humanizada, com foco em:
 
 ## 📁 Estrutura de Diretórios
 
-```plaintext
 CLEARMIND/
 │
 ├── .vscode/                     # Configurações do VS Code
@@ -98,13 +97,3 @@ Criar blog com artigos semanais
 
 Implementar animações suaves com bibliotecas JS
 
-Thank you for using our template!
-For more awesome templates please visit Colorlib
-
-⚠️ Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available aqui
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
-
-go
-Copiar
-Editar
