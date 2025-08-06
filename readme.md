@@ -56,7 +56,8 @@ CLEARMIND/
 ├── main.html                    # Página adicional (pode ser home alternativa)
 ├── Guia_Autocuidado_A...pdf     # Guia em PDF para autocuidado
 └── readme.txt                   # Introdução ou orientações rápidas
-📌 Páginas Principais
+
+##📌Páginas Principais
 index.html – Página inicial com visão geral da plataforma
 
 about.html – Informações institucionais e missão do projeto
@@ -65,7 +66,7 @@ services.html – Descrição dos serviços e recursos oferecidos
 
 main.html – Versão alternativa de entrada ou landing page
 
-📁 Pasta /Doc
+##📁Pasta /Doc
 Contém versões separadas dos recursos do projeto com possível foco em documentação, demonstração ou guia técnico. Pode ser usada para:
 
 Criar um guia visual do projeto
@@ -74,10 +75,10 @@ Apresentações técnicas
 
 Explicação de estrutura de estilos, fontes e scripts
 
-📥 Arquivo: Guia_Autocuidado_A...pdf
+##📥 Arquivo: Guia_Autocuidado_A...pdf
 Material complementar em PDF com sugestões práticas de autocuidado, destinado aos usuários da plataforma como apoio no dia a dia.
 
-✨ Destaques de Desenvolvimento
+##✨ Destaques de Desenvolvimento
 SCSS Modular: organização do código CSS com uso de variáveis, mixins e modularização
 
 Design Responsivo com Bootstrap: layout adaptado para todos os dispositivos
@@ -86,7 +87,7 @@ Acessibilidade: estrutura HTML semântica, uso de aria, contraste adequado e nav
 
 Performance: uso de imagens otimizadas e scripts leves
 
-🚧 Melhorias Futuras
+##🚧 Melhorias Futuras
 Implementar autenticação para usuários
 
 Criar área pessoal com diário e lembretes
